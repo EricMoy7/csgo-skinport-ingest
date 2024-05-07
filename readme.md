@@ -1,0 +1,1 @@
+- Requires a date.txt file in the home directory that has a datetime formatted in ISO 8601 e.g. 2024-05-06T22:17:56.7496Z This will be used as the start of the query for new data to avoid duplicate data.
